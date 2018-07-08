@@ -1,0 +1,22 @@
+{
+  "name": "javascript-custom-iterator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-iterator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/abnerfs/javascript-custom-iterator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/abnerfs/javascript-custom-iterator/issues"
+  },
+  "homepage": "https://gitlab.com/abnerfs/javascript-custom-iterator#README",
+  "dependencies": {
+    "random-number": "0.0.9"
+  }
+}
